@@ -13,6 +13,6 @@
 - So a 256 gray bmp file with 'w*h-32<=0' or a 24 bit true color bmp file with 'w*h*3-32<=0' can not hide message using this tool.
 
 ## Screenshots
-![UI](https://github.com/BIOTONIC/LSBSteg/blob/master/Screenshots/Screen%20Shot%202017-05-27%20at%2017.39.50.png)
-![Encrypt Message](https://github.com/BIOTONIC/LSBSteg/blob/master/Screenshots/Screen%20Shot%202017-05-27%20at%2017.43.48.png)
-![Decrypt Message](https://github.com/BIOTONIC/LSBSteg/blob/master/Screenshots/Screen%20Shot%202017-05-27%20at%2017.44.10.png)
+[UI](https://github.com/BIOTONIC/LSBSteg/blob/master/Screenshots/Screen%20Shot%202017-05-27%20at%2017.39.50.png)
+[Encrypt Message](https://github.com/BIOTONIC/LSBSteg/blob/master/Screenshots/Screen%20Shot%202017-05-27%20at%2017.43.48.png)
+[Decrypt Message](https://github.com/BIOTONIC/LSBSteg/blob/master/Screenshots/Screen%20Shot%202017-05-27%20at%2017.44.10.png)
