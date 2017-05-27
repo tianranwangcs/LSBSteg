@@ -9,7 +9,7 @@
 
 ## Instruction
 - This steganography tool is compitable with both 256 gray & 24 bit true color bmp files.
-- Apart from the first 1078 bits in header, I use the next 32 bytes data to store the length of hidden message.(An int is 32 bits, which can be hide in 32 bytes.)
+- Apart from the first 1078 bits in header, I use the next 32 bytes to store the length of hidden message.(An int is 32 bits long, which can be hidden in 32 bytes.)
 - So a 256 gray bmp file with 'w*h-32<=0' or a 24 bit true color bmp file with 'w*h*3-32<=0' can not hide message using this tool.
 
 ## Screenshots
